@@ -149,10 +149,10 @@ def convert_number_to_text(input_number):
 
 
 
-def numtext(number):
+def convert(number):
     try:
-        int(input_number)
-        return convert_number_to_text(input_number)
+        int(number)
+        return convert_number_to_text(number)
     except:
-        raise Exception("Invalid Input")
+        raise Exception(f"Invalid Input  [ {number} ]")
 
