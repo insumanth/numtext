@@ -98,7 +98,6 @@ def get_formatted_list(raw_number):
     return map_digits
 
 
-
 def get_base_text(number_string):
     l1, l2, l3 = list(number_string)
     last_two_digits = f"{l2}{l3}"
@@ -119,7 +118,6 @@ def get_base_text(number_string):
     return text
 
 
-
 def get_text(number_string, exponent):
     text = ""
     if number_string != '000':
@@ -129,7 +127,6 @@ def get_text(number_string, exponent):
 
 
 def convert_number_to_text(input_number):
-
     formatted_data = get_formatted_list(input_number)
     number_to_text = []
 
@@ -143,10 +140,7 @@ def convert_number_to_text(input_number):
 
     number_to_text.reverse()
     number_to_text_string = " ".join(number_to_text)
-    return re.sub("[ ]+",' ',number_to_text_string)
-
-
-
+    return re.sub("[ ]+", ' ', number_to_text_string)
 
 
 def convert(number):
@@ -155,4 +149,3 @@ def convert(number):
         return convert_number_to_text(str(number))
     except:
         raise Exception(f"Invalid Input  [ {number} ]")
-
