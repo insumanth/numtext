@@ -2,25 +2,25 @@
 import argparse
 import sys
 
-import numtext
+import numtext as nt
 
 
 def main():
     """Console script for numtext."""
     parser = argparse.ArgumentParser()
-    # parser.add_argument('_', nargs='*')
+    parser.add_argument('_', nargs='*')
     parser.add_argument('number', type=str)
     parser.add_argument('--capitalize', default=False, action="store_true")
     args = parser.parse_args()
 
-    text = numtext.convert(args.number)
-    print(args.number)
-
-
-    # print("Arguments: " + str(args._))
-    # print("Replace this message by putting your code into numtext.cli.main" + "text")
+    converted_text = nt.convert(args.number)
+    if args.capitalize:
+        text = converted_text.capitalize()
+    else:
+        text = converted_text
+    
     print(text)
-    print(args.capitalize)
+
     return 0
 
 
