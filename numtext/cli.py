@@ -18,7 +18,7 @@ def main():
         text = converted_text.capitalize()
     else:
         text = converted_text
-    
+
     print(text)
 
     return 0
