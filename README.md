@@ -2,23 +2,23 @@
 #### A Python Package to convert Numbers to Text.
 
 [
-![PyPI](https://img.shields.io/pypi/v/numtext?style=for-the-badge)
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/numtext?style=for-the-badge)
-![PyPI - Implementation](https://img.shields.io/pypi/implementation/numtext?style=for-the-badge)
-![PyPI - Wheel](https://img.shields.io/pypi/wheel/numtext?style=for-the-badge)
-![PyPI - Status](https://img.shields.io/pypi/status/numtext?style=for-the-badge)
-![PyPI - Downloads](https://img.shields.io/pypi/dm/numtext?color=Green&label=pipy%20downloads&style=for-the-badge)
+![PyPI](https://img.shields.io/pypi/v/numtext)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/numtext)
+![PyPI - Implementation](https://img.shields.io/pypi/implementation/numtext)
+![PyPI - Wheel](https://img.shields.io/pypi/wheel/numtext)
+![PyPI - Status](https://img.shields.io/pypi/status/numtext)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/numtext?color=Green&label=pipy%20downloads)
 ](https://pypi.org/project/numtext/)
 
 [
-![Github Username](https://img.shields.io/badge/Github%20Username-insumanth-brightgreen?style=for-the-badge&logo=github)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/insumanth/numtext?style=for-the-badge)
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/insumanth/numtext?include_prereleases&style=for-the-badge)
-![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/insumanth/numtext?style=for-the-badge)
-![GitHub top language](https://img.shields.io/github/languages/top/insumanth/numtext?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/insumanth/numtext?style=for-the-badge)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/insumanth/numtext?label=Github%20Code%20SIze&style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/insumanth/numtext?label=Github%20Repo%20Size&style=for-the-badge)
+![Github Username](https://img.shields.io/badge/Github%20Username-insumanth-brightgreen&logo=github)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/insumanth/numtext)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/insumanth/numtext?include_prereleases)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/insumanth/numtext)
+![GitHub top language](https://img.shields.io/github/languages/top/insumanth/numtext)
+![GitHub language count](https://img.shields.io/github/languages/count/insumanth/numtext)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/insumanth/numtext?label=Github%20Code%20SIze)
+![GitHub repo size](https://img.shields.io/github/repo-size/insumanth/numtext?label=Github%20Repo%20Size)
 ](https://github.com/insumanth/numtext)
 
 
